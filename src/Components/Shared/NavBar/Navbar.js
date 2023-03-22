@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../../../assets/image/logo/logo.png'
-import { FaMoon, FaSun, FaUserCircle } from "react-icons/fa";
+import { FaMoon, FaSun } from "react-icons/fa";
 import { useDarkMode } from '../../../utils/useDarkMode';
 
 const Navbar = () => {
